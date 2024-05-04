@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @DulranSam
-- 👀 I’m interested in Learning how to code and building large scale web applications especially...
-- 🌱 I’m currently learning React , Redux , TypeScript and Flutter...
-- 📫 Find Me on the socials in my bio...
-
+- 👀 I do day-trading/dropshipping and i'm a CS student
 <!---
 DulranSam/DulranSam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
