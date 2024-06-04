@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DulranSam
+- 👋 Hi, I’m axqqt
 - 👀 Mainly an artist/dropshipper/futures trader
 - 😁 Crypto NFTs + web3 dev enthusiast! (With a dream to develop a trading bot)
 - 📱 We're cooking up something stay tuned (SAAS)
