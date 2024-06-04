@@ -1,7 +1,7 @@
 - 👋 Hi, I’m axqqt
 - 👀 Mainly a dropshipper/futures trader/meme coin trader / gambler
 - 😁 Crypto NFTs + web3 dev enthusiast! (With a dream to develop a trading bot)
-- 📱 We're cooking up something stay tuned (SAAS)
+- 📱 We're cooking up something stay tuned (PAAS)
 - 🤓 Former CS nerd
 - Updated on 26th May 2024 
 <!---
